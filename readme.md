@@ -1,0 +1,1 @@
+The pictures must be contained in the root/pictures
